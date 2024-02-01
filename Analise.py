@@ -1,4 +1,4 @@
-"""
+
 print("-"*3, "1 Pessoa", "-"*3)
 nome = input("Informe o primeiro nome: ")
 idade = int(input("Informe sua idade: "))
@@ -69,3 +69,4 @@ while sexo not in "MmFf":
  elif sexo in "Ff":
   print("Deu certo você informou o sexo feminino")
   break
+"""
